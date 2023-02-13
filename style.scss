@@ -1,0 +1,19 @@
+.header {
+    &__title  {
+        font-size: 1.25rem;
+
+        &--active {
+            font-size: 3rem;
+            color: red;
+        }
+    }
+}
+
+.nav {
+    &__item {
+        &--special {
+            background-color: blue;
+            color: white;
+        }
+    }
+}
