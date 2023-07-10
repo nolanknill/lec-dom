@@ -7,6 +7,7 @@ const tvShows = [
         castMembers: ["Gabriel Macht", "Patrick J. Adams", "Meghan, Duchess of Sussex"],
         year: 2011,
         rating: 8,
+        imageSrc: "/assets/images/suits.jpg"
     },
     {
         title: "Game of Thrones",
@@ -15,7 +16,8 @@ const tvShows = [
         numberOfSeasons: 8,
         castMembers: ["Thor Bjornsson", "Kit Harrington",  "Emilia Clarke"],
         year: 2011,
-        rating: 2
+        rating: 2,
+        imageSrc: "/assets/images/game-of-thrones.jpeg"
     },
     {
         title: "Teletubbies",
@@ -24,6 +26,7 @@ const tvShows = [
         numberOfSeasons: 2,
         castMembers: ["Red", "Yellow",  "Green", "Purple"],
         year: 2001,
-        rating: 8.91
+        rating: 8.91,
+        imageSrc: "/assets/images/teletubbies.jpeg"
     }
 ]
