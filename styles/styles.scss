@@ -1,0 +1,17 @@
+.dom-methods {
+    &__item {
+        &--hacked {
+            font-size: 2.25rem;
+            color: #adff2f;
+            background-color: black;
+        }
+    }
+}
+
+.tv-show {
+    display: flex;
+    flex-direction: column;
+    &__cover {
+        width: 8rem;
+    }
+}
