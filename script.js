@@ -6,6 +6,7 @@ const tvShows = [
         numberOfSeasons: 10,
         castMembers: ["Gabriel Macht", "Patrick J. Adams", "Meghan, Duchess of Sussex"],
         year: 2011,
+        rating: 8,
     },
     {
         title: "Game of Thrones",
