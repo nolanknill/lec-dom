@@ -1,0 +1,13 @@
+.dom-methods__item--hacked {
+  color: greenyellow;
+  background-color: black;
+  font-size: 3rem;
+}
+
+.tv-show {
+  display: flex;
+  flex-direction: column;
+}
+.tv-show__cover {
+  width: 6rem;
+}/*# sourceMappingURL=styles.css.map */

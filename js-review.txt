@@ -1,0 +1,30 @@
+JavaScript
+
+- Data types
+    - Primitives
+        - Number
+        - String
+        - Boolean
+        - null
+        - undefined
+    
+    - Complex data types (Data structures)
+        - Object
+        - Array
+
+- Variables
+
+- Operators
+    - Comparison
+    - Arithmetic
+    - Logical
+
+- Control Flow
+    - If / else if / else
+    - Switch
+    - Loops
+        - For
+        - while
+- Functions
+
+- Using the console to view output
